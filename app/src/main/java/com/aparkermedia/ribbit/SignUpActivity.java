@@ -58,6 +58,7 @@ public class SignUpActivity extends ActionBarActivity {
                     AlertDialog dialog = builder.create();
                     dialog.show();
                 } else {
+
                     setProgressBarIndeterminateVisibility(true);
                     ParseUser newUser = new ParseUser();
                     newUser.setUsername(username);
