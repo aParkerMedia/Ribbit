@@ -6,6 +6,7 @@
     <string name="title_section2">Section 2</string>
     <string name="title_section3">Section 3</string>
     <string name="hello_world">Hello world!</string>
+    <string name="action_logout">Logout</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_login">Login</string>
     <string name="username_hint">Username</string>
@@ -15,5 +16,9 @@
     <string name="title_activity_sign_up">Sign Up</string>
     <string name="email_hint">Email</string>
     <string name="sign_up_button_label">Sign Up</string>
+    <string name="signup_error_message">Please make sure you enter a Username, Password and Email address!</string>
+    <string name="signup_error_title">OOPS!</string>
+    <string name="login_error_message">Please make sure you enter a Username and Password!</string>
+    <string name="login_error_title">OOPS!</string>
 
 </resources>
